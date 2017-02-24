@@ -1,0 +1,6 @@
+{
+  "name": "Alexa bypass nlp",
+  "description": "Shows how to almost entirely bypass Alexa's NLP by capturing raw user input from Alexa and feeding it to API.ai for processing",
+  "repository": "https://github.com/upjoes/alexa_bypass_nlp",
+  "keywords": ["node", "express", "static"]
+}
