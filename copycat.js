@@ -7,8 +7,8 @@ const md5 = require('md5');
 function copycat(express) {
   app.launch((req, res) => {
     res.shouldEndSession(false);
-    res.reprompt(`Are you still there? I'll repeat what you say.`);
-    res.say(`Hello, please say something and I'll repeat it back to you.`);
+    res.reprompt('Are you still there? I\'ll repeat what you say.');
+    res.say('Hello, please say something and I\'ll repeat it back to you.');
   });
 
   app.intent('catchAllIntent', {
