@@ -2,7 +2,7 @@
   "name": "copycat",
   "version": "0.0.0",
   "engines": {
-    "node": "5.9.1"
+    "node": "6.10.0"
   },
   "private": true,
   "scripts": {
